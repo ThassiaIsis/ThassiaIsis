@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <!-- estudando no momento -->
 ### Studying in this moment:
-![Python]([https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
 
